@@ -3,7 +3,6 @@
 require __DIR__ . '/vendor/autoload.php';
 
 use App\Services\Connection;
-use App\Services\User;
 use App\MercadoPago;
 use Dotenv\Dotenv;
 
