@@ -11,7 +11,7 @@ $dotenv = Dotenv::createUnsafeImmutable(__DIR__);
 $dotenv->load();
 
 
-## API PAYMENT MERCADO PAGO
+## API PAYMENT MERCADO PAGO 
 $transaction = new MercadoPago();
 
 $payment = $transaction->paymentPreference();
