@@ -4,6 +4,7 @@
 
 ## 💡 Requisitos
 
+
 Versão mínima requerida do PHP 8.3^. </br>
 Versão utilizado do Composer 2.7.8^
 
